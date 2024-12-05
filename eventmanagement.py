@@ -224,7 +224,9 @@ def import_attendees():
 
 def main():
     while True:
-        print("\nEvent Management System")
+        print("\n=====Event Management System=====")
+        print("======Created By-Madhav and Raja =======")
+        print("======Represented in Kanha Makhan Public School===")
         print("1. Register User")
         print("2. Login User")
         print("3. Add Event")
